@@ -2,7 +2,7 @@
 ![badge](https://img.shields.io/badge/TIME%20TAKEN-3%20to%204%20hrs-red)
 [![badge](https://img.shields.io/badge/SEE%20DEMO%20-VISIT-green)](https://javascript-stopwatch-project2.netlify.app/)
 
-# JavaScript Calculator App
+# JavaScript Stop Watch App
 
 - This is Javascript Project. In this project I have made a **Stop Watch App** with JavasCript, which starts, stops and reset the timer.
 
